@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(255, 255, 255);
+    
+}
+h1 {
+    font-size: 3rem;
+}
+#fotoPerfil img {
+    height: 175px;
+    border-radius: 50%;
+
+}
+
+#listaSocis {
+    display: flex;
+    align-items: center;
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+#listaSociais img {
+    height: 25px;
+    margin-right: 0.6;
+
+}
